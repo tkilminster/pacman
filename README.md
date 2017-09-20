@@ -1,5 +1,5 @@
 # Pac-Man
-Pac-Man in C++ using OpenGL. For any additional information or just for interest-sake please view the [fullreport](https://github.com/tkilminster/pacman/blob/master/pacman_report.pdf "View Report").
+Pac-Man in C++ using OpenGL. For any additional information or just for interest-sake please view the [full report](https://github.com/tkilminster/pacman/blob/master/pacman_report.pdf "View Report").
 
 ## Dependencies
 * **libpng** used for the binding and viewing of the png sprites
