@@ -2,7 +2,7 @@
 Pac-Man in C++ using OpenGL. The current version only supports Linux based systems. For any additional information or just for interest-sake please view the [full report](https://github.com/tkilminster/pacman/blob/master/pacman_report.pdf "View Report").
 
 ## Dependencies
-* **libpng** used for the binding and viewing of the png sprites
+* **libpng** used for the binding and viewing of the PNG sprites.
 
 ## How To Compile
 > ln -fs Makefile.linux Makefile
