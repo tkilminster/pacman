@@ -6,16 +6,24 @@ Pac-Man in C++ using OpenGL. For any additional information or just for interest
 
 ## How To Compile
 > ln -fs Makefile.linux Makefile
+
 > make pacman -B
 
 ## How To Run
 > ./pacman
 
-## Controls
-### Movement
+## How To Play
+The aim of Pac-Man is to eat all the pills to advance to the next level, without being caught by the ghosts.
+
+If Pac-Man eats a super pill the ghosts will turn frightened and Pac-Man will be able to eat them to gain bonus points. Otherwise, if Pac-Man encounters a ghost he will lose a life.
+
+Pac-Man can also gain bonus points by eating the bonus fruit which appears randomly in the maze once a certain amount of pills have been eaten.
+
+### Controls
+#### Movement
 * Arrow Keys - Left, Up, Right, Down
 
-### Game
+#### Game
 * P - Pause/ Unpause the game
 * Q - Quit the game
 * R - Only when "Game Over" is showing R will start a new game
